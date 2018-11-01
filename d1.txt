@@ -1,0 +1,154 @@
+2018-04-22 20:23:50	mq135 gas values
+2018-04-22 20:23:50	617
+2018-04-22 20:23:50	There is alcohol content in the air
+2018-04-22 20:23:50	Message sent successfully
+2018-04-22 20:23:53	Ultrasonic sensor values
+2018-04-22 20:23:53	Distance from the brim
+2018-04-22 20:23:53	30
+2018-04-22 20:23:53	Going to be empty
+2018-04-22 20:23:53	Message sent successfully
+2018-04-22 20:23:54	DHT VALUES
+2018-04-22 20:23:54	Humidity:16.00
+2018-04-22 20:23:54	Message sent successfully
+2018-04-22 20:23:54	Temperature:32.00
+2018-04-22 20:23:54	Message sent successfully
+2018-04-22 20:23:55	soilmoisture values
+2018-04-22 20:23:55	977
+2018-04-22 20:23:55	The field is dry water the plants now
+2018-04-22 20:23:55	Message sent successfully
+2018-04-22 20:23:56	mq6 gas values
+2018-04-22 20:23:56	665
+2018-04-22 20:23:57	mq135 gas values
+2018-04-22 20:23:57	625
+2018-04-22 20:23:57	There is alcohol content in the air
+2018-04-22 20:23:57	Message sent successfully
+2018-04-22 20:24:00	Ultrasonic sensor values
+2018-04-22 20:24:00	Distance from the brim
+2018-04-22 20:24:00	30
+2018-04-22 20:24:00	Going to be empty
+2018-04-22 20:24:00	Message sent successfully
+2018-04-22 20:24:01	DHT VALUES
+2018-04-22 20:24:01	Humidity:16.00
+2018-04-22 20:24:01	Message sent successfully
+2018-04-22 20:24:01	Temperature:32.00
+2018-04-22 20:24:01	Message sent successfully
+2018-04-22 20:24:02	soilmoisture values
+2018-04-22 20:24:02	978
+2018-04-22 20:24:02	The field is dry water the plants now
+2018-04-22 20:24:02	Message sent successfully
+2018-04-22 20:24:03	mq6 gas values
+2018-04-22 20:24:03	665
+2018-04-22 20:24:04	mq135 gas values
+2018-04-22 20:24:04	630
+2018-04-22 20:24:04	There is alcohol content in the air
+2018-04-22 20:24:04	Message sent successfully
+2018-04-22 20:24:07	Ultrasonic sensor values
+2018-04-22 20:24:07	Distance from the brim
+2018-04-22 20:24:07	29
+2018-04-22 20:24:07	Going to be empty
+2018-04-22 20:24:08	Message sent successfully
+2018-04-22 20:24:08	DHT VALUES
+2018-04-22 20:24:08	Humidity:16.00
+2018-04-22 20:24:09	Message sent successfully
+2018-04-22 20:24:09	Temperature:32.00
+2018-04-22 20:24:09	Message sent successfully
+2018-04-22 20:24:10	soilmoisture values
+2018-04-22 20:24:10	977
+2018-04-22 20:24:10	The field is dry water the plants now
+2018-04-22 20:24:10	Message sent successfully
+2018-04-22 20:24:11	mq6 gas values
+2018-04-22 20:24:11	664
+2018-04-22 20:24:12	mq135 gas values
+2018-04-22 20:24:12	628
+2018-04-22 20:24:12	There is alcohol content in the air
+2018-04-22 20:24:12	Message sent successfully
+2018-04-22 20:24:15	Ultrasonic sensor values
+2018-04-22 20:24:15	Distance from the brim
+2018-04-22 20:24:15	30
+2018-04-22 20:24:15	Going to be empty
+2018-04-22 20:24:15	Message sent successfully
+2018-04-22 20:24:16	DHT VALUES
+2018-04-22 20:24:16	Humidity:16.00
+2018-04-22 20:24:16	Message sent successfully
+2018-04-22 20:24:16	Temperature:32.00
+2018-04-22 20:24:16	Message sent successfully
+2018-04-22 20:24:17	soilmoisture values
+2018-04-22 20:24:17	978
+2018-04-22 20:24:17	The field is dry water the plants now
+2018-04-22 20:24:17	Message sent successfully
+2018-04-22 20:24:18	mq6 gas values
+2018-04-22 20:24:18	660
+2018-04-22 20:24:19	mq135 gas values
+2018-04-22 20:24:19	624
+2018-04-22 20:24:19	There is alcohol content in the air
+2018-04-22 20:24:19	Message sent successfully
+2018-04-22 20:24:22	Ultrasonic sensor values
+2018-04-22 20:24:22	Distance from the brim
+2018-04-22 20:24:22	29
+2018-04-22 20:24:22	Going to be empty
+2018-04-22 20:24:22	Message sent successfully
+2018-04-22 20:24:23	DHT VALUES
+2018-04-22 20:24:23	Humidity:16.00
+2018-04-22 20:24:23	Message sent successfully
+2018-04-22 20:24:23	Temperature:32.00
+2018-04-22 20:24:23	Message sent successfully
+2018-04-22 20:24:24	soilmoisture values
+2018-04-22 20:24:24	977
+2018-04-22 20:24:24	The field is dry water the plants now
+2018-04-22 20:24:24	Message sent successfully
+2018-04-22 20:24:25	mq6 gas values
+2018-04-22 20:24:25	661
+2018-04-22 20:24:26	mq135 gas values
+2018-04-22 20:24:26	627
+2018-04-22 20:24:26	There is alcohol content in the air
+2018-04-22 20:24:26	Message sent successfully
+2018-04-22 20:24:29	Ultrasonic sensor values
+2018-04-22 20:24:29	Distance from the brim
+2018-04-22 20:24:29	29
+2018-04-22 20:24:29	Going to be empty
+2018-04-22 20:24:29	Message sent successfully
+2018-04-22 20:24:30	DHT VALUES
+2018-04-22 20:24:30	Humidity:16.00
+2018-04-22 20:24:30	Message sent successfully
+2018-04-22 20:24:30	Temperature:32.00
+2018-04-22 20:24:30	Message sent successfully
+2018-04-22 20:24:31	soilmoisture values
+2018-04-22 20:24:31	976
+2018-04-22 20:24:31	The field is dry water the plants now
+2018-04-22 20:24:31	Message sent successfully
+2018-04-22 20:24:32	mq6 gas values
+2018-04-22 20:24:32	661
+2018-04-22 20:24:33	mq135 gas values
+2018-04-22 20:24:33	626
+2018-04-22 20:24:33	There is alcohol content in the air
+2018-04-22 20:24:33	Message sent successfully
+2018-04-22 20:24:36	Ultrasonic sensor values
+2018-04-22 20:24:36	Distance from the brim
+2018-04-22 20:24:36	29
+2018-04-22 20:24:36	Going to be empty
+2018-04-22 20:24:36	Message sent successfully
+2018-04-22 20:24:37	DHT VALUES
+2018-04-22 20:24:37	Humidity:16.00
+2018-04-22 20:24:37	Message sent successfully
+2018-04-22 20:24:37	Temperature:32.00
+2018-04-22 20:24:37	Message sent successfully
+2018-04-22 20:24:38	soilmoisture values
+2018-04-22 20:24:38	976
+2018-04-22 20:24:38	The field is dry water the plants now
+2018-04-22 20:24:38	Message sent successfully
+2018-04-22 20:24:39	mq6 gas values
+2018-04-22 20:24:39	662
+2018-04-22 20:24:41	mq135 gas values
+2018-04-22 20:24:41	629
+2018-04-22 20:24:41	There is alcohol content in the air
+2018-04-22 20:24:41	Message sent successfully
+2018-04-22 20:24:43	Ultrasonic sensor values
+2018-04-22 20:24:44	Distance from the brim
+2018-04-22 20:24:44	30
+2018-04-22 20:24:44	Going to be empty
+2018-04-22 20:24:44	Message sent successfully
+2018-04-22 20:24:45	DHT VALUES
+2018-04-22 20:24:45	Humidity:15.00
+2018-04-22 20:24:45	Message sent successfully
+2018-04-22 20:24:45	Temperature:32.00
+2018-04-22 20:24:45	Message sent successfully
